@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="transf_tournesol.xsl"?>
+<tableau>
+    <ligne code_departement="01" nom_departement="Ain" region="Auvergne-Rhône-Alpes"/>
+    <ligne code_departement="02" nom_departement="Aisne" region="Hauts-de-France"/>
+    <ligne code_departement="03" nom_departement="Allier" region="Auvergne-Rhône-Alpes"/>
+    <ligne code_departement="04" nom_departement="Alpes-de-Haute-Provence" region="PACA"/>
+    <ligne code_departement="05" nom_departement="Hautes-Alpes" region="PACA"/>
+    <ligne code_departement="06" nom_departement="Alpes-Maritimes" region="PACA"/>
+    <ligne code_departement="07" nom_departement="Ardèche" region="Auvergne-Rhône-Alpes"/>
+    <ligne code_departement="08" nom_departement="Ardennes" region="Grand Est"/>
+    <ligne code_departement="09" nom_departement="Ariège" region="Occitanie"/>
+    <ligne code_departement="10" nom_departement="Aube" region="Grand Est"/>
+    <ligne code_departement="11" nom_departement="Aude" region="Occitanie"/>
+    <ligne code_departement="12" nom_departement="Aveyron" region="Occitanie"/>
+    <ligne code_departement="13" nom_departement="Bouches-du-Rhône" region="PACA"/>
+    <ligne code_departement="14" nom_departement="Calvados" region="Normandie"/>
+    <ligne code_departement="15" nom_departement="Cantal" region="Auvergne-Rhône-Alpes"/>
+    <ligne code_departement="16" nom_departement="Charente" region="Nouvelle Aquitaine"/>
+    <ligne code_departement="17" nom_departement="Charente-Maritime" region="Nouvelle Aquitaine"/>
+    <ligne code_departement="18" nom_departement="Cher" region="Centre-Val de Loire"/>
+    <ligne code_departement="19" nom_departement="Corrèze" region="Nouvelle Aquitaine"/>
+    <ligne code_departement="2A" nom_departement="Corse-du-Sud" region="Corse"/>
+    <ligne code_departement="2B" nom_departement="Haute-Corse" region="Corse"/>
+    <ligne code_departement="21" nom_departement="Côte-d'Or" region="Bourgogne-Franche-Comté"/>
+    <ligne code_departement="22" nom_departement="Côtes d'Armor" region="Bretagne"/>
+    <ligne code_departement="23" nom_departement="Creuse" region="Nouvelle Aquitaine"/>
+    <ligne code_departement="24" nom_departement="Dordogne" region="Nouvelle Aquitaine"/>
+    <ligne code_departement="25" nom_departement="Doubs" region="Bourgogne-Franche-Comté"/>
+    <ligne code_departement="26" nom_departement="Drôme" region="Auvergne-Rhône-Alpes"/>
+    <ligne code_departement="27" nom_departement="Eure" region="Normandie"/>
+    <ligne code_departement="28" nom_departement="Eure-et-Loir" region="Centre-Val de Loire"/>
+    <ligne code_departement="29" nom_departement="Finistère" region="Bretagne"/>
+    <ligne code_departement="30" nom_departement="Gard" region="Occitanie"/>
+    <ligne code_departement="31" nom_departement="Haute-Garonne" region="Occitanie"/>
+    <ligne code_departement="32" nom_departement="Gers" region="Occitanie"/>
+    <ligne code_departement="33" nom_departement="Gironde" region="Nouvelle Aquitaine"/>
+    <ligne code_departement="34" nom_departement="Hérault" region="Occitanie"/>
+    <ligne code_departement="35" nom_departement="Ille-et-Vilaine" region="Bretagne"/>
+    <ligne code_departement="36" nom_departement="Indre" region="Centre-Val de Loire"/>
+    <ligne code_departement="37" nom_departement="Indre-et-Loire" region="Centre-Val de Loire"/>
+    <ligne code_departement="38" nom_departement="Isère" region="Auvergne-Rhône-Alpes"/>
+    <ligne code_departement="39" nom_departement="Jura" region="Bourgogne-Franche-Comté"/>
+    <ligne code_departement="40" nom_departement="Landes" region="Nouvelle Aquitaine"/>
+    <ligne code_departement="41" nom_departement="Loir-et-Cher" region="Centre-Val de Loire"/>
+    <ligne code_departement="42" nom_departement="Loire" region="Auvergne-Rhône-Alpes"/>
+    <ligne code_departement="43" nom_departement="Haute-Loire" region="Auvergne-Rhône-Alpes"/>
+    <ligne code_departement="44" nom_departement="Loire-Atlantique" region="Pays de la Loire"/>
+    <ligne code_departement="45" nom_departement="Loiret" region="Centre-Val de Loire"/>
+    <ligne code_departement="46" nom_departement="Lot" region="Occitanie"/>
+    <ligne code_departement="47" nom_departement="Lot-et-Garonne" region="Nouvelle Aquitaine"/>
+    <ligne code_departement="48" nom_departement="Lozère" region="Occitanie"/>
+    <ligne code_departement="49" nom_departement="Maine-et-Loire" region="Pays de la Loire"/>
+    <ligne code_departement="50" nom_departement="Manche" region="Normandie"/>
+    <ligne code_departement="51" nom_departement="Marne" region="Grand Est"/>
+    <ligne code_departement="52" nom_departement="Haute-Marne" region="Grand Est"/>
+    <ligne code_departement="53" nom_departement="Mayenne" region="Pays de la Loire"/>
+    <ligne code_departement="54" nom_departement="Meurthe-et-Moselle" region="Grand Est"/>
+    <ligne code_departement="55" nom_departement="Meuse" region="Grand Est"/>
+    <ligne code_departement="56" nom_departement="Morbihan" region="Bretagne"/>
+    <ligne code_departement="57" nom_departement="Moselle" region="Grand Est"/>
+    <ligne code_departement="58" nom_departement="Nièvre" region="Bourgogne-Franche-Comté"/>
+    <ligne code_departement="59" nom_departement="Nord" region="Hauts-de-France"/>
+    <ligne code_departement="60" nom_departement="Oise" region="Hauts-de-France"/>
+    <ligne code_departement="61" nom_departement="Orne" region="Normandie"/>
+    <ligne code_departement="62" nom_departement="Pas-de-Calais" region="Hauts-de-France"/>
+    <ligne code_departement="63" nom_departement="Puy-de-Dôme" region="Auvergne-Rhône-Alpes"/>
+    <ligne code_departement="64" nom_departement="Pyrénées-Atlantiques" region="Nouvelle Aquitaine"/>
+    <ligne code_departement="65" nom_departement="Hautes-Pyrénées" region="Occitanie"/>
+    <ligne code_departement="66" nom_departement="Pyrénées-Orientales" region="Occitanie"/>
+    <ligne code_departement="67" nom_departement="Bas-Rhin" region="Grand Est"/>
+    <ligne code_departement="68" nom_departement="Haut-Rhin" region="Grand Est"/>
+    <ligne code_departement="69" nom_departement="Rhône" region="Auvergne-Rhône-Alpes"/>
+    <ligne code_departement="70" nom_departement="Haute-Saône" region="Bourgogne-Franche-Comté"/>
+    <ligne code_departement="71" nom_departement="Saône-et-Loire" region="Bourgogne-Franche-Comté"/>
+    <ligne code_departement="72" nom_departement="Sarthe" region="Pays de la Loire"/>
+    <ligne code_departement="73" nom_departement="Savoie" region="Auvergne-Rhône-Alpes"/>
+    <ligne code_departement="74" nom_departement="Haute-Savoie" region="Auvergne-Rhône-Alpes"/>
+    <ligne code_departement="75" nom_departement="Paris" region="Ile-de-France"/>
+    <ligne code_departement="76" nom_departement="Seine-Maritime" region="Normandie"/>
+    <ligne code_departement="77" nom_departement="Seine-et-Marne" region="Ile-de-France"/>
+    <ligne code_departement="78" nom_departement="Yvelines" region="Ile-de-France"/>
+    <ligne code_departement="79" nom_departement="Deux-Sèvres" region="Nouvelle Aquitaine"/>
+    <ligne code_departement="80" nom_departement="Somme" region="Hauts-de-France"/>
+    <ligne code_departement="81" nom_departement="Tarn" region="Occitanie"/>
+    <ligne code_departement="82" nom_departement="Tarn-et-Garonne" region="Occitanie"/>
+    <ligne code_departement="83" nom_departement="Var" region="PACA"/>
+    <ligne code_departement="84" nom_departement="Vaucluse" region="PACA"/>
+    <ligne code_departement="85" nom_departement="Vendée" region="Pays de la Loire"/>
+    <ligne code_departement="86" nom_departement="Vienne" region="Nouvelle Aquitaine"/>
+    <ligne code_departement="87" nom_departement="Haute-Vienne" region="Nouvelle Aquitaine"/>
+    <ligne code_departement="88" nom_departement="Vosges" region="Grand Est"/>
+    <ligne code_departement="89" nom_departement="Yonne" region="Bourgogne-Franche-Comté"/>
+    <ligne code_departement="90" nom_departement="Territoire-de-Belfort" region="Bourgogne-Franche-Comté"/>
+    <ligne code_departement="91" nom_departement="Essonne" region="Ile-de-France"/>
+    <ligne code_departement="92" nom_departement="Hauts-de-Seine" region="Ile-de-France"/>
+    <ligne code_departement="93" nom_departement="Seine-Saint-Denis" region="Ile-de-France"/>
+    <ligne code_departement="94" nom_departement="Val-de-Marne" region="Ile-de-France"/>
+    <ligne code_departement="95" nom_departement="Val-D'Oise" region="Ile-de-France"/>
+    <ligne code_departement="971" nom_departement="Guadeloupe" region="DOM"/>
+    <ligne code_departement="972" nom_departement="Martinique" region="DOM"/>
+    <ligne code_departement="973" nom_departement="Guyane" region="DOM"/>
+    <ligne code_departement="974" nom_departement="La Réunion" region="DOM"/>
+    <ligne code_departement="976" nom_departement="Mayotte" region="DOM"/>
+
+</tableau>

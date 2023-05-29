@@ -1,0 +1,1216 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="transf_tournesol.xsl"?>
+<data>
+   <departement code="75" nom="PARIS">
+      <tournesol annee="2021">
+         <production>0</production>
+         <surface>0</surface>
+         <rendement>0.0</rendement>
+      </tournesol>
+      <tournesol annee="2022">
+         <production>0</production>
+         <surface>0</surface>
+         <rendement>0.0</rendement>
+      </tournesol>
+   </departement>
+   <departement code="77" nom="SEINE-ET-MARNE">
+      <tournesol annee="2021">
+         <production>23573</production>
+         <surface>6735</surface>
+         <rendement>35.0</rendement>
+      </tournesol>
+      <tournesol annee="2022">
+         <production>22287</production>
+         <surface>7685</surface>
+         <rendement>29.0</rendement>
+      </tournesol>
+   </departement>
+   <departement code="78" nom="YVELINES">
+      <tournesol annee="2021">
+         <production>1394</production>
+         <surface>410</surface>
+         <rendement>34.0</rendement>
+      </tournesol>
+      <tournesol annee="2022">
+         <production>2171</production>
+         <surface>835</surface>
+         <rendement>26.0</rendement>
+      </tournesol>
+   </departement>
+   <departement code="91" nom="ESSONNE">
+      <tournesol annee="2021">
+         <production>3856</production>
+         <surface>1205</surface>
+         
+      </tournesol>
+      <tournesol annee="2022">
+         <production>4564</production>
+         <surface>1630</surface>
+         
+      </tournesol>
+   </departement>
+   <departement code="92" nom="HAUTS DE SEINE">
+      <tournesol annee="2021">
+         <production>0</production>
+         <surface>0</surface>
+         <rendement>0.0</rendement>
+      </tournesol>
+      <tournesol annee="2022">
+         <production>0</production>
+         <surface>0</surface>
+         <rendement>0.0</rendement>
+      </tournesol>
+   </departement>
+   <departement code="93" nom="SEINE ST DENIS">
+      <tournesol annee="2021">
+         <production>0</production>
+         <surface>0</surface>
+         <rendement>0.0</rendement>
+      </tournesol>
+      <tournesol annee="2022">
+         <production>0</production>
+         <surface>0</surface>
+         <rendement>0.0</rendement>
+      </tournesol>
+   </departement>
+   <departement code="94" nom="VAL DE MARNE">
+      <tournesol annee="2021">
+         <production>0</production>
+         <surface>0</surface>
+         <rendement>0.0</rendement>
+      </tournesol>
+      <tournesol annee="2022">
+         <production>0</production>
+         <surface>0</surface>
+         <rendement>0.0</rendement>
+      </tournesol>
+   </departement>
+   <departement code="95" nom="VAL D'OISE">
+      <tournesol annee="2021">
+         <production>1785</production>
+         <surface>510</surface>
+         <rendement>35.0</rendement>
+      </tournesol>
+      <tournesol annee="2022">
+         <production>2400</production>
+         <surface>960</surface>
+         <rendement>25.0</rendement>
+      </tournesol>
+   </departement>
+   <departement code="18" nom="CHER">
+      <tournesol annee="2021">
+         <production>75884</production>
+         <surface>28105</surface>
+         <rendement>27.0</rendement>
+      </tournesol>
+      <tournesol annee="2022">
+         <production>73600</production>
+         <surface>32000</surface>
+         <rendement>23.0</rendement>
+      </tournesol>
+   </departement>
+   <departement code="28" nom="EURE-ET-LOIR">
+      <tournesol annee="2021">
+         <production>4387</production>
+         <surface>1415</surface>
+         <rendement>31.0</rendement>
+      </tournesol>
+      <tournesol annee="2022">
+         <production>7616</production>
+         <surface>2720</surface>
+         <rendement>28.0</rendement>
+      </tournesol>
+   </departement>
+   <departement code="36" nom="INDRE">
+      <tournesol annee="2021">
+         <production>69482</production>
+         <surface>24815</surface>
+         <rendement>28.0</rendement>
+      </tournesol>
+      <tournesol annee="2022">
+         <production>62100</production>
+         <surface>27000</surface>
+         <rendement>23.0</rendement>
+      </tournesol>
+   </departement>
+   <departement code="37" nom="INDRE-ET-LOIRE">
+      <tournesol annee="2021">
+         <production>77775</production>
+         <surface>25925</surface>
+         <rendement>30.0</rendement>
+      </tournesol>
+      <tournesol annee="2022">
+         <production>65516</production>
+         <surface>29780</surface>
+         <rendement>22.0</rendement>
+      </tournesol>
+   </departement>
+   <departement code="41" nom="LOIR-ET-CHER">
+      <tournesol annee="2021">
+         <production>27735</production>
+         <surface>9245</surface>
+         <rendement>30.0</rendement>
+      </tournesol>
+      <tournesol annee="2022">
+         <production>27118</production>
+         <surface>10430</surface>
+         <rendement>26.0</rendement>
+      </tournesol>
+   </departement>
+   <departement code="45" nom="LOIRET">
+      <tournesol annee="2021">
+         <production>26303</production>
+         <surface>9070</surface>
+         <rendement>29.0</rendement>
+      </tournesol>
+      <tournesol annee="2022">
+         <production>34552</production>
+         <surface>12340</surface>
+         <rendement>28.0</rendement>
+      </tournesol>
+   </departement>
+   <departement code="21" nom="COTE-D'OR">
+      <tournesol annee="2021">
+         <production>47700</production>
+         <surface>15900</surface>
+         <rendement>30.0</rendement>
+      </tournesol>
+      <tournesol annee="2022">
+         <production>47520</production>
+         <surface>19800</surface>
+         <rendement>24.0</rendement>
+      </tournesol>
+   </departement>
+   <departement code="25" nom="DOUBS">
+      <tournesol annee="2021">
+         <production>252</production>
+         <surface>140</surface>
+         <rendement>18.0</rendement>
+      </tournesol>
+      <tournesol annee="2022">
+         <production>560</production>
+         <surface>200</surface>
+         <rendement>28.0</rendement>
+      </tournesol>
+   </departement>
+   <departement code="39" nom="JURA">
+      <tournesol annee="2021">
+         <production>4050</production>
+         <surface>1350</surface>
+         <rendement>30.0</rendement>
+      </tournesol>
+      <tournesol annee="2022">
+         <production>4750</production>
+         <surface>1900</surface>
+         <rendement>25.0</rendement>
+      </tournesol>
+   </departement>
+   <departement code="58" nom="NIEVRE">
+      <tournesol annee="2021">
+         <production>33750</production>
+         <surface>12500</surface>
+         <rendement>27.0</rendement>
+      </tournesol>
+      <tournesol annee="2022">
+         <production>32430</production>
+         <surface>14100</surface>
+         <rendement>23.0</rendement>
+      </tournesol>
+   </departement>
+   <departement code="70" nom="HAUTE SAONE">
+      <tournesol annee="2021">
+         <production>6670</production>
+         <surface>2300</surface>
+         <rendement>29.0</rendement>
+      </tournesol>
+      <tournesol annee="2022">
+         <production>10260</production>
+         <surface>3800</surface>
+         <rendement>27.0</rendement>
+      </tournesol>
+   </departement>
+   <departement code="71" nom="SAONE-ET-LOIRE">
+      <tournesol annee="2021">
+         <production>11890</production>
+         <surface>4100</surface>
+         <rendement>29.0</rendement>
+      </tournesol>
+      <tournesol annee="2022">
+         <production>15810</production>
+         <surface>5100</surface>
+         <rendement>31.0</rendement>
+      </tournesol>
+   </departement>
+   <departement code="89" nom="YONNE">
+      <tournesol annee="2021">
+         <production>66080</production>
+         <surface>23600</surface>
+         <rendement>28.0</rendement>
+      </tournesol>
+      <tournesol annee="2022">
+         <production>57040</production>
+         <surface>24800</surface>
+         <rendement>23.0</rendement>
+      </tournesol>
+   </departement>
+   <departement code="90" nom="TERRITOIRE DE BELFORT">
+      <tournesol annee="2021">
+         <production>0</production>
+         <surface>0</surface>
+         <rendement>0.0</rendement>
+      </tournesol>
+      <tournesol annee="2022">
+         <production>0</production>
+         <surface>0</surface>
+         <rendement>0.0</rendement>
+      </tournesol>
+   </departement>
+   <departement code="14" nom="CALVADOS">
+      <tournesol annee="2021">
+         <production>2943</production>
+         <surface>1090</surface>
+         <rendement>27.0</rendement>
+      </tournesol>
+      <tournesol annee="2022">
+         <production>6030</production>
+         <surface>2010</surface>
+         <rendement>30.0</rendement>
+      </tournesol>
+   </departement>
+   <departement code="27" nom="EURE">
+      <tournesol annee="2021">
+         <production>2025</production>
+         <surface>750</surface>
+         
+      </tournesol>
+      <tournesol annee="2022">
+         <production>4050</production>
+         <surface>1350</surface>
+         
+      </tournesol>
+   </departement>
+   <departement code="50" nom="MANCHE">
+      <tournesol annee="2021">
+         <production>0</production>
+         <surface>0</surface>
+         <rendement>0.0</rendement>
+      </tournesol>
+      <tournesol annee="2022">
+         <production>180</production>
+         <surface>60</surface>
+         <rendement>30.0</rendement>
+      </tournesol>
+   </departement>
+   <departement code="61" nom="ORNE">
+      <tournesol annee="2021">
+         <production>3078</production>
+         <surface>1140</surface>
+         <rendement>27.0</rendement>
+      </tournesol>
+      <tournesol annee="2022">
+         <production>6330</production>
+         <surface>2110</surface>
+         <rendement>30.0</rendement>
+      </tournesol>
+   </departement>
+   <departement code="76" nom="SEINE-MARITIME">
+      <tournesol annee="2021">
+         <production>297</production>
+         <surface>110</surface>
+         <rendement>27.0</rendement>
+      </tournesol>
+      <tournesol annee="2022">
+         <production>615</production>
+         <surface>205</surface>
+         <rendement>30.0</rendement>
+      </tournesol>
+   </departement>
+   <departement code="02" nom="AISNE">
+      <tournesol annee="2021">
+         <production>5163</production>
+         <surface>1721</surface>
+         
+      </tournesol>
+      <tournesol annee="2022">
+         <production>8265</production>
+         <surface>2850</surface>
+         
+      </tournesol>
+   </departement>
+   <departement code="59" nom="NORD">
+      <tournesol annee="2021">
+         <production>113</production>
+         <surface>42</surface>
+         <rendement>27.0</rendement>
+      </tournesol>
+      <tournesol annee="2022">
+         <production>437</production>
+         <surface>162</surface>
+         <rendement>27.0</rendement>
+      </tournesol>
+   </departement>
+   <departement code="60" nom="OISE">
+      <tournesol annee="2021">
+         <production>11832</production>
+         <surface>3944</surface>
+         <rendement>30.0</rendement>
+      </tournesol>
+      <tournesol annee="2022">
+         <production>19074</production>
+         <surface>5780</surface>
+         <rendement>33.0</rendement>
+      </tournesol>
+   </departement>
+   <departement code="62" nom="PAS-DE-CALAIS">
+      <tournesol annee="2021">
+         <production>72</production>
+         <surface>24</surface>
+         <rendement>30.0</rendement>
+      </tournesol>
+      <tournesol annee="2022">
+         <production>123</production>
+         <surface>41</surface>
+         <rendement>30.0</rendement>
+      </tournesol>
+   </departement>
+   <departement code="80" nom="SOMME">
+      <tournesol annee="2021">
+         <production>981</production>
+         <surface>327</surface>
+         <rendement>30.0</rendement>
+      </tournesol>
+      <tournesol annee="2022">
+         <production>2117</production>
+         <surface>730</surface>
+         <rendement>29.0</rendement>
+      </tournesol>
+   </departement>
+   <departement code="08" nom="ARDENNES">
+      <tournesol annee="2021">
+         <production>1245</production>
+         <surface>415</surface>
+         <rendement>30.0</rendement>
+      </tournesol>
+      <tournesol annee="2022">
+         <production>3120</production>
+         <surface>1200</surface>
+         <rendement>26.0</rendement>
+      </tournesol>
+   </departement>
+   <departement code="10" nom="AUBE">
+      <tournesol annee="2021">
+         <production>49200</production>
+         <surface>16400</surface>
+         <rendement>30.0</rendement>
+      </tournesol>
+      <tournesol annee="2022">
+         <production>43875</production>
+         <surface>16250</surface>
+         <rendement>27.0</rendement>
+      </tournesol>
+   </departement>
+   <departement code="51" nom="MARNE">
+      <tournesol annee="2021">
+         <production>27750</production>
+         <surface>9250</surface>
+         <rendement>30.0</rendement>
+      </tournesol>
+      <tournesol annee="2022">
+         <production>25380</production>
+         <surface>9400</surface>
+         <rendement>27.0</rendement>
+      </tournesol>
+   </departement>
+   <departement code="52" nom="HAUTE-MARNE">
+      <tournesol annee="2021">
+         <production>31050</production>
+         <surface>10350</surface>
+         <rendement>30.0</rendement>
+      </tournesol>
+      <tournesol annee="2022">
+         <production>30590</production>
+         <surface>13300</surface>
+         <rendement>23.0</rendement>
+      </tournesol>
+   </departement>
+   <departement code="54" nom="MEURTHE-ET-MOSELLE">
+      <tournesol annee="2021">
+         <production>35160</production>
+         <surface>11720</surface>
+         <rendement>30.0</rendement>
+      </tournesol>
+      <tournesol annee="2022">
+         <production>30450</production>
+         <surface>14500</surface>
+         <rendement>21.0</rendement>
+      </tournesol>
+   </departement>
+   <departement code="55" nom="MEUSE">
+      <tournesol annee="2021">
+         <production>33720</production>
+         <surface>11240</surface>
+         <rendement>30.0</rendement>
+      </tournesol>
+      <tournesol annee="2022">
+         <production>31510</production>
+         <surface>13700</surface>
+         <rendement>23.0</rendement>
+      </tournesol>
+   </departement>
+   <departement code="57" nom="MOSELLE">
+      <tournesol annee="2021">
+         <production>24984</production>
+         <surface>8615</surface>
+         <rendement>29.0</rendement>
+      </tournesol>
+      <tournesol annee="2022">
+         <production>25300</production>
+         <surface>11500</surface>
+         <rendement>22.0</rendement>
+      </tournesol>
+   </departement>
+   <departement code="67" nom="BAS RHIN">
+      <tournesol annee="2021">
+         <production>3333</production>
+         <surface>1010</surface>
+         <rendement>33.0</rendement>
+      </tournesol>
+      <tournesol annee="2022">
+         <production>6000</production>
+         <surface>2000</surface>
+         <rendement>30.0</rendement>
+      </tournesol>
+   </departement>
+   <departement code="68" nom="HAUT RHIN">
+      <tournesol annee="2021">
+         <production>390</production>
+         <surface>325</surface>
+         <rendement>12.0</rendement>
+      </tournesol>
+      <tournesol annee="2022">
+         <production>300</production>
+         <surface>250</surface>
+         <rendement>12.0</rendement>
+      </tournesol>
+   </departement>
+   <departement code="88" nom="VOSGES">
+      <tournesol annee="2021">
+         <production>2697</production>
+         <surface>930</surface>
+         <rendement>29.0</rendement>
+      </tournesol>
+      <tournesol annee="2022">
+         <production>4200</production>
+         <surface>2000</surface>
+         <rendement>21.0</rendement>
+      </tournesol>
+   </departement>
+   <departement code="44" nom="LOIRE ATLANTIQUE">
+      <tournesol annee="2021">
+         <production>9625</production>
+         <surface>3319</surface>
+         <rendement>29.0</rendement>
+      </tournesol>
+      <tournesol annee="2022">
+         <production>12060</production>
+         <surface>6030</surface>
+         <rendement>20.0</rendement>
+      </tournesol>
+   </departement>
+   <departement code="49" nom="MAINE-ET-LOIRE">
+      <tournesol annee="2021">
+         <production>34406</production>
+         <surface>11864</surface>
+         <rendement>29.0</rendement>
+      </tournesol>
+      <tournesol annee="2022">
+         <production>36817</production>
+         <surface>16735</surface>
+         <rendement>22.0</rendement>
+      </tournesol>
+   </departement>
+   <departement code="53" nom="MAYENNE">
+      <tournesol annee="2021">
+         <production>7026</production>
+         <surface>2342</surface>
+         <rendement>30.0</rendement>
+      </tournesol>
+      <tournesol annee="2022">
+         <production>8490</production>
+         <surface>4245</surface>
+         <rendement>20.0</rendement>
+      </tournesol>
+   </departement>
+   <departement code="72" nom="SARTHE">
+      <tournesol annee="2021">
+         <production>19094</production>
+         <surface>6159</surface>
+         <rendement>31.0</rendement>
+      </tournesol>
+      <tournesol annee="2022">
+         <production>19970</production>
+         <surface>9985</surface>
+         <rendement>20.0</rendement>
+      </tournesol>
+   </departement>
+   <departement code="85" nom="VENDEE">
+      <tournesol annee="2021">
+         <production>52826</production>
+         <surface>17040</surface>
+         <rendement>31.0</rendement>
+      </tournesol>
+      <tournesol annee="2022">
+         <production>46910</production>
+         <surface>23455</surface>
+         <rendement>20.0</rendement>
+      </tournesol>
+   </departement>
+   <departement code="22" nom="COTES D'ARMOR">
+      <tournesol annee="2021">
+         <production>25</production>
+         <surface>6</surface>
+         <rendement>42.0</rendement>
+      </tournesol>
+      <tournesol annee="2022">
+         <production>44</production>
+         <surface>17</surface>
+         <rendement>26.0</rendement>
+      </tournesol>
+   </departement>
+   <departement code="29" nom="FINISTERE">
+      <tournesol annee="2021">
+         <production>538</production>
+         <surface>307</surface>
+         <rendement>17.5</rendement>
+      </tournesol>
+      <tournesol annee="2022">
+         <production>1137</production>
+         <surface>580</surface>
+         <rendement>19.6</rendement>
+      </tournesol>
+   </departement>
+   <departement code="35" nom="ILLE-ET-VILAINE">
+      <tournesol annee="2021">
+         <production>809</production>
+         <surface>385</surface>
+         <rendement>21.0</rendement>
+      </tournesol>
+      <tournesol annee="2022">
+         <production>2070</production>
+         <surface>1008</surface>
+         <rendement>20.5</rendement>
+      </tournesol>
+   </departement>
+   <departement code="56" nom="MORBIHAN">
+      <tournesol annee="2021">
+         <production>594</production>
+         <surface>312</surface>
+         <rendement>19.0</rendement>
+      </tournesol>
+      <tournesol annee="2022">
+         <production>1112</production>
+         <surface>621</surface>
+         <rendement>17.9</rendement>
+      </tournesol>
+   </departement>
+   <departement code="16" nom="CHARENTE">
+      <tournesol annee="2021">
+         <production>76860</production>
+         <surface>27450</surface>
+         <rendement>28.0</rendement>
+      </tournesol>
+      <tournesol annee="2022">
+         <production>69122</production>
+         <surface>32915</surface>
+         <rendement>21.0</rendement>
+      </tournesol>
+   </departement>
+   <departement code="17" nom="CHARENTE MARITIME">
+      <tournesol annee="2021">
+         <production>97617</production>
+         <surface>37545</surface>
+         <rendement>26.0</rendement>
+      </tournesol>
+      <tournesol annee="2022">
+         <production>88841</production>
+         <surface>42305</surface>
+         <rendement>21.0</rendement>
+      </tournesol>
+   </departement>
+   <departement code="19" nom="CORREZE">
+      <tournesol annee="2021">
+         <production>270</production>
+         <surface>150</surface>
+         <rendement>18.0</rendement>
+      </tournesol>
+      <tournesol annee="2022">
+         <production>648</production>
+         <surface>360</surface>
+         <rendement>18.0</rendement>
+      </tournesol>
+   </departement>
+   <departement code="23" nom="CREUSE">
+      <tournesol annee="2021">
+         <production>2568</production>
+         <surface>1070</surface>
+         <rendement>24.0</rendement>
+      </tournesol>
+      <tournesol annee="2022">
+         <production>4950</production>
+         <surface>2250</surface>
+         <rendement>22.0</rendement>
+      </tournesol>
+   </departement>
+   <departement code="24" nom="DORDOGNE">
+      <tournesol annee="2021">
+         <production>34216</production>
+         <surface>13160</surface>
+         <rendement>26.0</rendement>
+      </tournesol>
+      <tournesol annee="2022">
+         <production>33831</production>
+         <surface>16110</surface>
+         <rendement>21.0</rendement>
+      </tournesol>
+   </departement>
+   <departement code="33" nom="GIRONDE">
+      <tournesol annee="2021">
+         <production>8813</production>
+         <surface>3525</surface>
+         <rendement>25.0</rendement>
+      </tournesol>
+      <tournesol annee="2022">
+         <production>9828</production>
+         <surface>4680</surface>
+         <rendement>21.0</rendement>
+      </tournesol>
+   </departement>
+   <departement code="40" nom="LANDES">
+      <tournesol annee="2021">
+         <production>17013</production>
+         <surface>6805</surface>
+         <rendement>25.0</rendement>
+      </tournesol>
+      <tournesol annee="2022">
+         <production>17724</production>
+         <surface>8440</surface>
+         <rendement>21.0</rendement>
+      </tournesol>
+   </departement>
+   <departement code="47" nom="LOT-ET-GARONNE">
+      <tournesol annee="2021">
+         <production>72943</production>
+         <surface>27016</surface>
+         <rendement>27.0</rendement>
+      </tournesol>
+      <tournesol annee="2022">
+         <production>71258</production>
+         <surface>32390</surface>
+         <rendement>22.0</rendement>
+      </tournesol>
+   </departement>
+   <departement code="64" nom="PYRENEES-ATLANTIQUE">
+      <tournesol annee="2021">
+         <production>12290</production>
+         <surface>4552</surface>
+         <rendement>27.0</rendement>
+      </tournesol>
+      <tournesol annee="2022">
+         <production>18669</production>
+         <surface>8486</surface>
+         <rendement>22.0</rendement>
+      </tournesol>
+   </departement>
+   <departement code="79" nom="DEUX SEVRES">
+      <tournesol annee="2021">
+         <production>83430</production>
+         <surface>30900</surface>
+         <rendement>27.0</rendement>
+      </tournesol>
+      <tournesol annee="2022">
+         <production>75002</production>
+         <surface>37501</surface>
+         <rendement>20.0</rendement>
+      </tournesol>
+   </departement>
+   <departement code="86" nom="VIENNE">
+      <tournesol annee="2021">
+         <production>112448</production>
+         <surface>40160</surface>
+         <rendement>28.0</rendement>
+      </tournesol>
+      <tournesol annee="2022">
+         <production>94637</production>
+         <surface>45065</surface>
+         <rendement>21.0</rendement>
+      </tournesol>
+   </departement>
+   <departement code="87" nom="HAUTE VIENNE">
+      <tournesol annee="2021">
+         <production>4216</production>
+         <surface>2480</surface>
+         <rendement>17.0</rendement>
+      </tournesol>
+      <tournesol annee="2022">
+         <production>9680</production>
+         <surface>4840</surface>
+         <rendement>20.0</rendement>
+      </tournesol>
+   </departement>
+   <departement code="09" nom="ARIEGE">
+      <tournesol annee="2021">
+         <production>9100</production>
+         <surface>3640</surface>
+         <rendement>25.0</rendement>
+      </tournesol>
+      <tournesol annee="2022">
+         <production>7480</production>
+         <surface>4400</surface>
+         <rendement>17.0</rendement>
+      </tournesol>
+   </departement>
+   <departement code="11" nom="AUDE">
+      <tournesol annee="2021">
+         <production>39936</production>
+         <surface>16640</surface>
+         <rendement>24.0</rendement>
+      </tournesol>
+      <tournesol annee="2022">
+         <production>21852</production>
+         <surface>18210</surface>
+         <rendement>12.0</rendement>
+      </tournesol>
+   </departement>
+   <departement code="12" nom="AVEYRON">
+      <tournesol annee="2021">
+         <production>726</production>
+         <surface>330</surface>
+         <rendement>22.0</rendement>
+      </tournesol>
+      <tournesol annee="2022">
+         <production>1575</production>
+         <surface>1050</surface>
+         <rendement>15.0</rendement>
+      </tournesol>
+   </departement>
+   <departement code="30" nom="GARD">
+      <tournesol annee="2021">
+         <production>3430</production>
+         <surface>1805</surface>
+         <rendement>19.0</rendement>
+      </tournesol>
+      <tournesol annee="2022">
+         <production>2830</production>
+         <surface>2830</surface>
+         <rendement>10.0</rendement>
+      </tournesol>
+   </departement>
+   <departement code="31" nom="HAUTE GARONNE">
+      <tournesol annee="2021">
+         <production>112500</production>
+         <surface>45000</surface>
+         <rendement>25.0</rendement>
+      </tournesol>
+      <tournesol annee="2022">
+         <production>84976</production>
+         <surface>53110</surface>
+         <rendement>16.0</rendement>
+      </tournesol>
+   </departement>
+   <departement code="32" nom="GERS">
+      <tournesol annee="2021">
+         <production>151944</production>
+         <surface>58440</surface>
+         <rendement>26.0</rendement>
+      </tournesol>
+      <tournesol annee="2022">
+         <production>134235</production>
+         <surface>70650</surface>
+         <rendement>19.0</rendement>
+      </tournesol>
+   </departement>
+   <departement code="34" nom="HERAULT">
+      <tournesol annee="2021">
+         <production>885</production>
+         <surface>590</surface>
+         <rendement>15.0</rendement>
+      </tournesol>
+      <tournesol annee="2022">
+         <production>670</production>
+         <surface>670</surface>
+         <rendement>10.0</rendement>
+      </tournesol>
+   </departement>
+   <departement code="46" nom="LOT">
+      <tournesol annee="2021">
+         <production>5796</production>
+         <surface>2760</surface>
+         <rendement>21.0</rendement>
+      </tournesol>
+      <tournesol annee="2022">
+         <production>6660</production>
+         <surface>3700</surface>
+         <rendement>18.0</rendement>
+      </tournesol>
+   </departement>
+   <departement code="48" nom="LOZERE">
+      <tournesol annee="2021">
+         <production>0</production>
+         <surface>0</surface>
+         <rendement>0.0</rendement>
+      </tournesol>
+      <tournesol annee="2022">
+         <production>5</production>
+         <surface>5</surface>
+         <rendement>10.0</rendement>
+      </tournesol>
+   </departement>
+   <departement code="65" nom="HAUTES PYRENEES">
+      <tournesol annee="2021">
+         <production>11715</production>
+         <surface>3550</surface>
+         <rendement>33.0</rendement>
+      </tournesol>
+      <tournesol annee="2022">
+         <production>9000</production>
+         <surface>6000</surface>
+         <rendement>15.0</rendement>
+      </tournesol>
+   </departement>
+   <departement code="66" nom="PYRENEES ORIENTALES">
+      <tournesol annee="2021">
+         <production>56</production>
+         <surface>40</surface>
+         <rendement>14.0</rendement>
+      </tournesol>
+      <tournesol annee="2022">
+         <production>50</production>
+         <surface>45</surface>
+         <rendement>11.0</rendement>
+      </tournesol>
+   </departement>
+   <departement code="81" nom="TARN">
+      <tournesol annee="2021">
+         <production>54725</production>
+         <surface>21890</surface>
+         <rendement>25.0</rendement>
+      </tournesol>
+      <tournesol annee="2022">
+         <production>47430</production>
+         <surface>27900</surface>
+         <rendement>17.0</rendement>
+      </tournesol>
+   </departement>
+   <departement code="82" nom="TARN ET GARONNE">
+      <tournesol annee="2021">
+         <production>55614</production>
+         <surface>21390</surface>
+         <rendement>26.0</rendement>
+      </tournesol>
+      <tournesol annee="2022">
+         <production>49770</production>
+         <surface>27650</surface>
+         <rendement>18.0</rendement>
+      </tournesol>
+   </departement>
+   <departement code="01" nom="AIN">
+      <tournesol annee="2021">
+         <production>13446</production>
+         <surface>4980</surface>
+         
+      </tournesol>
+      <tournesol annee="2022">
+         <production>15768</production>
+         <surface>5840</surface>
+         
+      </tournesol>
+   </departement>
+   <departement code="03" nom="ALLIER">
+      <tournesol annee="2021">
+         <production>23880</production>
+         <surface>7960</surface>
+         
+      </tournesol>
+      <tournesol annee="2022">
+         <production>35424</production>
+         <surface>13120</surface>
+         
+      </tournesol>
+   </departement>
+   <departement code="07" nom="ARDECHE">
+      <tournesol annee="2021">
+         <production>980</production>
+         <surface>490</surface>
+         <rendement>20.0</rendement>
+      </tournesol>
+      <tournesol annee="2022">
+         <production>1062</production>
+         <surface>590</surface>
+         <rendement>18.0</rendement>
+      </tournesol>
+   </departement>
+   <departement code="15" nom="CANTAL">
+      <tournesol annee="2021">
+         <production>25</production>
+         <surface>10</surface>
+         <rendement>25.0</rendement>
+      </tournesol>
+      <tournesol annee="2022">
+         <production>108</production>
+         <surface>60</surface>
+         <rendement>18.0</rendement>
+      </tournesol>
+   </departement>
+   <departement code="26" nom="DROME">
+      <tournesol annee="2021">
+         <production>13728</production>
+         <surface>6240</surface>
+         <rendement>22.0</rendement>
+      </tournesol>
+      <tournesol annee="2022">
+         <production>13400</production>
+         <surface>6700</surface>
+         <rendement>20.0</rendement>
+      </tournesol>
+   </departement>
+   <departement code="38" nom="ISERE">
+      <tournesol annee="2021">
+         <production>14840</production>
+         <surface>5300</surface>
+         <rendement>28.0</rendement>
+      </tournesol>
+      <tournesol annee="2022">
+         <production>16392</production>
+         <surface>6830</surface>
+         <rendement>24.0</rendement>
+      </tournesol>
+   </departement>
+   <departement code="42" nom="LOIRE">
+      <tournesol annee="2021">
+         <production>437</production>
+         <surface>230</surface>
+         <rendement>19.0</rendement>
+      </tournesol>
+      <tournesol annee="2022">
+         <production>1007</production>
+         <surface>530</surface>
+         <rendement>19.0</rendement>
+      </tournesol>
+   </departement>
+   <departement code="43" nom="HAUTE LOIRE">
+      <tournesol annee="2021">
+         <production>728</production>
+         <surface>260</surface>
+         <rendement>28.0</rendement>
+      </tournesol>
+      <tournesol annee="2022">
+         <production>1045</production>
+         <surface>475</surface>
+         <rendement>22.0</rendement>
+      </tournesol>
+   </departement>
+   <departement code="63" nom="PUY-DE-DOME">
+      <tournesol annee="2021">
+         <production>20916</production>
+         <surface>7470</surface>
+         <rendement>28.0</rendement>
+      </tournesol>
+      <tournesol annee="2022">
+         <production>26622</production>
+         <surface>9180</surface>
+         <rendement>29.0</rendement>
+      </tournesol>
+   </departement>
+   <departement code="69" nom="RHONE">
+      <tournesol annee="2021">
+         <production>1782</production>
+         <surface>660</surface>
+         <rendement>27.0</rendement>
+      </tournesol>
+      <tournesol annee="2022">
+         <production>1440</production>
+         <surface>600</surface>
+         <rendement>24.0</rendement>
+      </tournesol>
+   </departement>
+   <departement code="73" nom="SAVOIE">
+      <tournesol annee="2021">
+         <production>288</production>
+         <surface>115</surface>
+         <rendement>25.0</rendement>
+      </tournesol>
+      <tournesol annee="2022">
+         <production>423</production>
+         <surface>235</surface>
+         <rendement>18.0</rendement>
+      </tournesol>
+   </departement>
+   <departement code="74" nom="HAUTE SAVOIE">
+      <tournesol annee="2021">
+         <production>100</production>
+         <surface>40</surface>
+         <rendement>25.0</rendement>
+      </tournesol>
+      <tournesol annee="2022">
+         <production>121</production>
+         <surface>55</surface>
+         <rendement>22.0</rendement>
+      </tournesol>
+   </departement>
+   <departement code="04" nom="ALPES DE HAUTE PROVENCE">
+      <tournesol annee="2021">
+         <production>1687</production>
+         <surface>1010</surface>
+         
+      </tournesol>
+      <tournesol annee="2022">
+         <production>1742</production>
+         <surface>1300</surface>
+         
+      </tournesol>
+   </departement>
+   <departement code="05" nom="HAUTES ALPES">
+      <tournesol annee="2021">
+         <production>211</production>
+         <surface>136</surface>
+         
+      </tournesol>
+      <tournesol annee="2022">
+         <production>264</production>
+         <surface>203</surface>
+         
+      </tournesol>
+   </departement>
+   <departement code="06" nom="ALPES MARITIMES">
+      <tournesol annee="2021">
+         <production>0</production>
+         <surface>0</surface>
+         <rendement>0.0</rendement>
+      </tournesol>
+      <tournesol annee="2022">
+         <production>0</production>
+         <surface>0</surface>
+         <rendement>0.0</rendement>
+      </tournesol>
+   </departement>
+   <departement code="13" nom="BOUCHES-DU-RHONE">
+      <tournesol annee="2021">
+         <production>3498</production>
+         <surface>2107</surface>
+         <rendement>16.6</rendement>
+      </tournesol>
+      <tournesol annee="2022">
+         <production>3072</production>
+         <surface>2310</surface>
+         <rendement>13.3</rendement>
+      </tournesol>
+   </departement>
+   <departement code="83" nom="VAR">
+      <tournesol annee="2021">
+         <production>417</production>
+         <surface>259</surface>
+         <rendement>16.1</rendement>
+      </tournesol>
+      <tournesol annee="2022">
+         <production>289</production>
+         <surface>222</surface>
+         <rendement>13.0</rendement>
+      </tournesol>
+   </departement>
+   <departement code="84" nom="VAUCLUSE">
+      <tournesol annee="2021">
+         <production>3275</production>
+         <surface>1742</surface>
+         <rendement>18.8</rendement>
+      </tournesol>
+      <tournesol annee="2022">
+         <production>3338</production>
+         <surface>2225</surface>
+         <rendement>15.0</rendement>
+      </tournesol>
+   </departement>
+   <departement code="2A" nom="CORSE">
+      <tournesol annee="2021">
+         <production>0</production>
+         <surface>0</surface>
+         <rendement>0.0</rendement>
+      </tournesol>
+      <tournesol annee="2022">
+         <production>0</production>
+         <surface>0</surface>
+         <rendement>0.0</rendement>
+      </tournesol>
+   </departement>
+   <departement code="2B" nom="CORSE">
+      <tournesol annee="2021">
+         <production>0</production>
+         <surface>0</surface>
+         <rendement>0.0</rendement>
+      </tournesol>
+      <tournesol annee="2022">
+         <production>0</production>
+         <surface>0</surface>
+         <rendement>0.0</rendement>
+      </tournesol>
+   </departement>
+   <departement code="971" nom="GUADELOUPE">
+      <tournesol annee="2021">
+         <production>0</production>
+         <surface>0</surface>
+         <rendement>0.0</rendement>
+      </tournesol>
+      <tournesol annee="2022">
+         <production>0</production>
+         <surface>0</surface>
+         <rendement>0.0</rendement>
+      </tournesol>
+   </departement>
+   <departement code="972" nom="MARTINIQUE">
+      <tournesol annee="2021">
+         <production>0</production>
+         <surface>0</surface>
+         <rendement>0.0</rendement>
+      </tournesol>
+      <tournesol annee="2022">
+         <production>0</production>
+         <surface>0</surface>
+         <rendement>0.0</rendement>
+      </tournesol>
+   </departement>
+   <departement code="973" nom="GUYANE">
+      <tournesol annee="2021">
+         <production>0</production>
+         <surface>0</surface>
+         <rendement>0.0</rendement>
+      </tournesol>
+      <tournesol annee="2022">
+         <production>0</production>
+         <surface>0</surface>
+         <rendement>0.0</rendement>
+      </tournesol>
+   </departement>
+   <departement code="974" nom="RÉUNION">
+      <tournesol annee="2021">
+         <production>0</production>
+         <surface>0</surface>
+         <rendement>0.0</rendement>
+      </tournesol>
+      <tournesol annee="2022">
+         <production>0</production>
+         <surface>0</surface>
+         <rendement>0.0</rendement>
+      </tournesol>
+   </departement>
+   <departement code="976" nom="MAYOTTE">
+      <tournesol annee="2021">
+         <production>0</production>
+         <surface>0</surface>
+         <rendement>0.0</rendement>
+      </tournesol>
+      <tournesol annee="2022">
+         <production>0</production>
+         <surface>0</surface>
+         <rendement>0.0</rendement>
+      </tournesol>
+   </departement>
+</data>
