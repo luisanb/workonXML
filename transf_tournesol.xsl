@@ -6,9 +6,23 @@
     <xsl:template match="/">        
         
         <!-- On récupere les informations concernant la production, la surface et le rendement en 2022 -->
-        <xsl:variable name="rendement2022">
+        <xsl:variable name="doc2_code" select="document('correspondancesDepartementRegion.xml')//ligne"/>
             
-            <xsl:for-each select="departement">
+            <xsl:for-each select="//departement/tournesol[@annee='2022']">
+                <xsl:variable name="infos" select="."/>
+                
+                <!-- Rassembler les départements dans les régions -->
+                <xsl:choose>
+                    <xsl:when test="$doc2_code = @code">
+                        <xsl:value-of select="@region"/>
+                    </xsl:when>
+                </xsl:choose>
+                
+                
+                
+                
+                
+                
                 
                 <!-- On met les données en ordre décroissante, on veut le plus rentable d'abord -->
                 <xsl:sort select="rendement" order="descending"/>
@@ -20,10 +34,7 @@
                     </xsl:when>                    
                 </xsl:choose>
                 
-                <!-- Rassembler les départements dans les régions -->
-                <xsl:if test="code = code_departement">
-                                            
-                </xsl:if>
+                                           
                 
                 <tr>
                     <td><xsl:value-of select="tableau/ligne[@code_departement=current()/@code]/@region" /></td>
@@ -34,7 +45,7 @@
                 
             </xsl:for-each>
             
-        </xsl:variable>       
+       
         
         
         
