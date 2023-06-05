@@ -88,7 +88,7 @@
     <xsl:variable name="producao2021" select="(tournesol[@annee = '2021']/production)"/>
     <xsl:variable name="surface" select="(tournesol[@annee = '2022']/surface)"/>
 
-
+    <!-- Rassemblement des lignes qui parlent de la même région -->
     <xsl:for-each select="//ligne[generate-id() = generate-id(key('region-key', @region)[1])]">      
       <tr>
         <!-- Calculs effectués sur le rendement de 2022 :
